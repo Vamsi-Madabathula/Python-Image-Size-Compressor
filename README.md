@@ -1,2 +1,2 @@
-#image compresser site using python
+#image compresser site using python work-in-progress
     
